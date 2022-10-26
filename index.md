@@ -28,4 +28,5 @@ Pour en savoir plus sur nos différents axes :
 </div>
 
 
-
+Liste composée par les membres de [Solidaires Étudiant·e·s Pau Occitanie](https://www.facebook.com/solidairesetudiantespauoccitanie/), du [Med'oc de Pau](https://www.facebook.com/medocdepau), d'étudiant·e·s indépendant·e·s et soutenue par la [CGT FERC sup UPPA](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/), [L'Arrosoir](https://larrosoirpau.legtux.org/) et [Art&Fac](https://www.facebook.com/art.et.fac.pau/).
+rtret
