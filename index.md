@@ -35,6 +35,7 @@ Liste composée et soutenue par :
 <div class="partenaires" markdown="1">
 
 - Étudiant⋅es indépendant⋅es
+- [Solidaires Étudiant·e·s Pau - Béarn](https://twitter.com/seslpau)
 - [Med'oc de Pau](https://www.facebook.com/medocdepau)
 - [CGT FERC sup UPPA](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/)
 - [CGT FERC sup UPPA – Collectif Doctorant⋅es](https://cgt-doctorants-uppa.legtux.org/)
