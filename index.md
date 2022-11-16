@@ -39,5 +39,6 @@ Liste composée et soutenue par :
 - [L'Arrosoir](https://larrosoirpau.fr/)
 - [Art&Fac](https://www.facebook.com/art.et.fac.pau/)
 </div>
-
+<!--
 # Ressources et communiquées de presse
+-->
