@@ -6,12 +6,13 @@ title: "Liste M22M Université de Pau et des Pays de l'Adour – Élections 2020
 # Profession de foi
 <div class="professionfoi" markdown="1">
 
-- 👉 [Profession de foi](assets/pdf/2022/)
+- 👉 [Profession de foi](assets/pdf/PF_M22M_2022-2024.pdf)
+/*
 - 👉 [Hauteskunduko adierazpena](assets/pdf/2022/)
 - 👉 [Profession de Fe](assets/pdf/2022/)
-
+*/
 </div>
-
+/*
 Pour en savoir plus sur nos différents axes :
 
 <div class="professionfoi" markdown="1">
@@ -26,7 +27,7 @@ Pour en savoir plus sur nos différents axes :
 - [🥼 Pour une recherche sans précarité !](assets/pdf/2022/)
 
 </div>
-
+*/
 Liste composée et soutenue par :
 <div class="partenaires" markdown="1">
 
