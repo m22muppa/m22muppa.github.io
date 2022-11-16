@@ -37,9 +37,10 @@ Liste composée et soutenue par :
 - Étudiant⋅es indépendant⋅es
 - [Med'oc de Pau](https://www.facebook.com/medocdepau)
 - [CGT FERC sup UPPA](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/)
-- [CGT FERC sup UPPA Doctorant⋅es](https://cgt-doctorants-uppa.legtux.org/)
+- [CGT FERC sup UPPA – Collectif Doctorant⋅es](https://cgt-doctorants-uppa.legtux.org/)
 - [L'Arrosoir](https://larrosoirpau.fr/)
 - [Art&Fac](https://www.facebook.com/art.et.fac.pau/)
+- [MARS - Association des Sociologues de l’UPPA](https://www.instagram.com/sociologie_uppa/)
 </div>
 <!--
 # Ressources et communiquées de presse
