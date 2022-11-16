@@ -1,5 +1,5 @@
 ---
-title: "Liste M22M Université de Pau et des Pays de l'Adour – Élections 2020"
+title: "Liste M22M Université de Pau et des Pays de l'Adour – Élections 2022"
 ---
 
 
