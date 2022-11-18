@@ -6,7 +6,7 @@ title: "Liste M22M Université de Pau et des Pays de l'Adour – Élections 2022
 # Profession de foi
 <div class="professionfoi" markdown="1">
 
-- 👉 [Profession de foi](assets/pdf/PF_M22M_2022-2024.pdf)
+- 👉 [Profession de foi](assets/pdf/2022/PF_M22M_2022-2024.pdf)
 
 <!--
 - 👉 [Hauteskunduko adierazpena](assets/pdf/2022/)
