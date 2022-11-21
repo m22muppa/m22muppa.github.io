@@ -19,13 +19,14 @@ Pour en savoir plus sur nos différents axes :
 
 <div class="professionfoi" markdown="1">
 - [📚 Démocratisation et accessibilité au savoir](assets/pdf/2022/Axe1_Democratisation_et_accessibilite_au_savoir.pdf)
-- [💶 Lutte contre la précarité]()
-- [👥 Pour un service public de qualité]()
-- [🎓 Université de proximité]()
-- [🗣️ Diversité culturelle et linguistique]()
-- [✊ Université en lutte contre les dominations]()
-- [🌱 Université écologique et sans conservateur]()
-- [🥼 Pour une recherche sans précarité !]()
+
+- 💶 Lutte contre la précarité
+- 👥 Pour un service public de qualité
+- 🎓 Université de proximité
+- 🗣️ Diversité culturelle et linguistique
+- ✊ Université en lutte contre les dominations
+- 🌱 Université écologique et sans conservateur
+- 🥼 Pour une recherche sans précarité !
 </div>
 
 
