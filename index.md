@@ -36,20 +36,20 @@ Liste composée par :
 
 <!--[![Nom](assets/img/)](URL)-->
 
-![Étudiant⋅es indépendant⋅es](assets/img/independants.png)
-[![Solidaires Étudiant·e·s Pau - Béarn](assets/img/solidaires.jpg)](https://twitter.com/seslpau)
-[![Med'oc de Pau](assets/img/medoc.png)](https://www.facebook.com/medocdepau)
-[![CGT FERC sup UPPA – Collectif Doctorant⋅es](assets/img/)](https://cgt-doctorants-uppa.legtux.org/)
+![Étudiant⋅es indépendant⋅es](assets/img/partenaires/independants.png)
+[![Solidaires Étudiant·e·s Pau - Béarn](assets/img/partenaires/solidaires.jpg)](https://twitter.com/seslpau)
+[![Med'oc de Pau](assets/img/partenaires/medoc.png)](https://www.facebook.com/medocdepau)
+[![CGT FERC sup UPPA – Collectif Doctorant⋅es](assets/img/partenaires/)](https://cgt-doctorants-uppa.legtux.org/)
 </div>
 
 Liste soutenue par :
 <div class="partenaires" markdown="1">
 
 <!--[![Nom](assets/img/)](URL)-->
-[![L'Arrosoir Pau Association](assets/img/arrosoir.png)](https://larrosoirpau.fr/)
-[![Art&Fac](assets/img/artefac.jpg)](https://www.facebook.com/art.et.fac.pau/)
-[![MARS - Association des Sociologues de l’UPPA](assets/img/)](https://www.instagram.com/sociologie_uppa/)
-[![CGT FERC sup UPPA](assets/img/cgt.jpg)](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/)
+[![L'Arrosoir Pau Association](assets/img/partenaires/arrosoir.png)](https://larrosoirpau.fr/)
+[![Art&Fac](assets/img/partenaires/artefac.jpg)](https://www.facebook.com/art.et.fac.pau/)
+[![MARS - Association des Sociologues de l’UPPA](assets/img/partenaires/)](https://www.instagram.com/sociologie_uppa/)
+[![CGT FERC sup UPPA](assets/img/partenaires/cgt.jpg)](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/)
 </div>
 <!--
 # Ressources et communiquées de presse
