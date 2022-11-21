@@ -48,7 +48,7 @@ Liste soutenue par :
 <!--[![Nom](assets/img/)](URL)-->
 [![L'Arrosoir Pau Association](assets/img/partenaires/arrosoir.png)](https://larrosoirpau.fr/)
 [![Art&Fac](assets/img/partenaires/artefac.jpg)](https://www.facebook.com/art.et.fac.pau/)
-[![MARS - Association des Sociologues de l’UPPA](assets/img/partenaires/)](https://www.instagram.com/sociologie_uppa/)
+[![MARS - Association des Sociologues de l’UPPA](assets/img/partenaires/mars.png)](https://www.instagram.com/sociologie_uppa/)
 [![CGT FERC sup UPPA](assets/img/partenaires/cgt.jpg)](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/)
 </div>
 <!--
