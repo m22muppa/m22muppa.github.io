@@ -39,7 +39,7 @@ Liste composée par :
 ![Étudiant⋅es indépendant⋅es](assets/img/partenaires/independants.png)
 [![Solidaires Étudiant·e·s Pau - Béarn](assets/img/partenaires/solidaires.jpg)](https://twitter.com/seslpau)
 [![Med'oc de Pau](assets/img/partenaires/medoc.png)](https://www.facebook.com/medocdepau)
-[![CGT FERC sup UPPA – Collectif Doctorant⋅es](assets/img/partenaires/)](https://cgt-doctorants-uppa.legtux.org/)
+[![CGT FERC sup UPPA – Collectif Doctorant⋅es](assets/img/partenaires/cgt-doctorants.png)](https://cgt-doctorants-uppa.legtux.org/)
 </div>
 
 Liste soutenue par :
