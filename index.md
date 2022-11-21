@@ -14,6 +14,14 @@ title: "Liste M22M Université de Pau et des Pays de l'Adour – Élections 2022
 -->
 
 </div>
+
+Pour en savoir plus sur nos différents axes :
+
+<div class="professionfoi" markdown="1">
+- [📚 Démocratisation et accessibilité au savoir](assets/pdf/2022/Axe1_Democratisation_et_accessibilite_au_savoir.pdf)
+</div>
+
+
 <!--
 Pour en savoir plus sur nos différents axes :
 
