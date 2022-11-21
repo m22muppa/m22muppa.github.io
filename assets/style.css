@@ -57,6 +57,7 @@ img {
 }
 .partenaires section {
   flex: 50%;
+  display:inline-block;
 }
 	
 .partenaires img {
