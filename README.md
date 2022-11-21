@@ -3,7 +3,8 @@
 Mettre les fichiers (pdf, etc) dans assets/pdf
 
 
-Comment générer un site ? Il faut modifier le fichier index.md (au format markdown). Comme ça utilise Github Pages, ça va « compiler » tout seul.
+Comment générer un site ? Il faut modifier le fichier index.html.
+
 # Sous le capot
 
 Plusieurs outils sont utilisé dans la chaîne éditoriale :

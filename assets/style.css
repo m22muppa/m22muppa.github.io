@@ -1,12 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Montserrat:wght@700&display=swap');
 @import url('https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css');
 
 html {
-    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-family: 'Arimo', sans-serif;
     background-color: #ffffff;
     color: #383E4B;
 }
-
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
 body {
     max-width:950px;
     margin:auto;
@@ -30,6 +32,9 @@ a {
     color:#0099d1;
     text-decoration:none;
 }
+a[href="#"] {
+	color:#000;
+}
 img {
 	max-width: 100%;
 	height: auto;
@@ -41,6 +46,20 @@ img {
     margin:1em;
     color:#000;
 }
+.professionfoi {
+	display:grid;
+	grid-template-columns: 30% 30% 30%;
+	grid-column-gap: 5%;
+	grid-row-gap: 50px;
+}
+.pfbox {
+	display:inline-block;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #f3f3f3;
+	padding: 5%;
+	text-align:center;
+}
+/*
 .professionfoi ul {
     column-count: 3;
 }
@@ -51,7 +70,7 @@ img {
 	padding:0.75em;
 	margin:0.5em;
 }
-
+*/
 .partenaires {
   display: flex;
 }
