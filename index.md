@@ -31,7 +31,7 @@ Pour en savoir plus sur nos différents axes :
 </div>
 -->
 
-Liste composée par :
+Liste composée et soutenue par :
 <div class="partenaires" markdown="1">
 
 <!--[![Nom](assets/img/)](URL)-->
@@ -40,12 +40,6 @@ Liste composée par :
 [![Solidaires Étudiant·e·s Pau - Béarn](assets/img/partenaires/solidaires.jpg)](https://twitter.com/seslpau)
 [![Med'oc de Pau](assets/img/partenaires/medoc.png)](https://www.facebook.com/medocdepau)
 [![CGT FERC sup UPPA – Collectif Doctorant⋅es](assets/img/partenaires/cgt-doctorants.png)](https://cgt-doctorants-uppa.legtux.org/)
-</div>
-
-Liste soutenue par :
-<div class="partenaires" markdown="1">
-
-<!--[![Nom](assets/img/)](URL)-->
 [![L'Arrosoir Pau Association](assets/img/partenaires/arrosoir.png)](https://larrosoirpau.fr/)
 [![Art&Fac](assets/img/partenaires/artefac.jpg)](https://www.facebook.com/art.et.fac.pau/)
 [![MARS - Association des Sociologues de l’UPPA](assets/img/partenaires/mars.png)](https://www.instagram.com/sociologie_uppa/)
