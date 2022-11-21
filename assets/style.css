@@ -19,7 +19,7 @@ header img {
     margin:auto;
     display:block;
 }
-header nav, footer nav {
+header nav, footer nav, .partenaires img {
 	margin:auto;
 	display:flex;
 	flex-direction:row;
@@ -51,6 +51,6 @@ img {
 	padding:0.75em;
 	margin:0.5em;
 }
-.partenaires ul {
-    column-count: 2;
+.partenaires img {
+    max-width:200px;
 }
