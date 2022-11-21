@@ -52,9 +52,13 @@ img {
 	margin:0.5em;
 }
 
-.professionfoi a[href=""] {
-    backdrop-filter: blur(15px) grayscale(0.5) opacity(0.8);
+.partenaires {
+  display: flex;
 }
+.partenaires section {
+  flex: 50%;
+}
+	
 .partenaires img {
     height:80px;
     display:inline-block;

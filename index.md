@@ -46,19 +46,26 @@ Pour en savoir plus sur nos différents axes :
 </div>
 -->
 
-Liste composée et soutenue par :
-<div class="partenaires" markdown="1">
 
+<div class="partenaires" markdown="1">
 <!--[![Nom](assets/img/)](URL)-->
+<section markdown="1">
+Liste composée par :
 
 ![Étudiant⋅es indépendant⋅es](assets/img/partenaires/independants.png)
 [![Solidaires Étudiant·e·s Pau - Béarn](assets/img/partenaires/solidaires.jpg)](https://twitter.com/seslpau)
 [![Med'oc de Pau](assets/img/partenaires/medoc.png)](https://www.facebook.com/medocdepau)
 [![CGT FERC sup UPPA – Collectif Doctorant⋅es](assets/img/partenaires/cgt-doctorants.png)](https://cgt-doctorants-uppa.legtux.org/)
+</section>
+
+<section markdown="1">
+Liste soutenue par :
+
 [![L'Arrosoir Pau Association](assets/img/partenaires/arrosoir.png)](https://larrosoirpau.fr/)
 [![Art&Fac](assets/img/partenaires/artefac.jpg)](https://www.facebook.com/art.et.fac.pau/)
 [![MARS - Association des Sociologues de l’UPPA](assets/img/partenaires/mars.png)](https://www.instagram.com/sociologie_uppa/)
 [![CGT FERC sup UPPA](assets/img/partenaires/cgt.jpg)](https://cgt.fercsup.net/syndicats/aquitaine-limousin-poitou-charentes/universite-de-pau-et-des-pays-de-l-adour-uppa/)
+</section>
 </div>
 <!--
 # Ressources et communiquées de presse
