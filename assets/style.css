@@ -93,17 +93,17 @@ img {
 }
 @media (max-width: 1000px) {
 	.professionfoi {
-		grid-template-columns: 30% 30%;
+		grid-template-columns: 50% 50%;
 		grid-column-gap: 5%;
 		grid-row-gap: 25px;
 	}
-.partenaires section {
+.partenaires, .partenaires section {
   display:block;
 }
 
 }
 @media (max-width: 600px) {
-	.professionfoi, .pfbox, .social, .partenaires section {
+	.professionfoi, .pfbox, nav, .partenaires section {
 		display:block;
 	}
 }
