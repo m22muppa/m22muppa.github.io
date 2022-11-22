@@ -91,19 +91,8 @@ img {
     height:70px;
     display:inline-block;
 }
-@media (max-width: 1000px) {
-	.professionfoi {
-		grid-template-columns: 50% 50%;
-		grid-column-gap: 5%;
-		grid-row-gap: 25px;
-	}
-.partenaires, .partenaires section {
-  display:block;
-}
-
-}
 @media (max-width: 600px) {
-	.professionfoi, .pfbox, nav, .partenaires section {
+	.professionfoi, .pfbox, nav a, .partenaires section, .partenaires, .partenaires img {
 		display:block;
 	}
 }
