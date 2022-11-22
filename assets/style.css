@@ -92,10 +92,10 @@ img {
     display:inline-block;
 }
 @media (max-width: 600px) {
-	.professionfoi, .pfbox, nav a, .partenaires section, .partenaires, .partenaires img {
+	.professionfoi, .pfbox, header nav, header nav a, .partenaires section, .partenaires, .partenaires img {
 		display:block;
 	}
 	.pfbox {
-		margin-bottom:1em;
+		margin:1em;
 	}
 }
