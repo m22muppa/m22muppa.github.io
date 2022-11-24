@@ -123,4 +123,7 @@ img {
 	.pfbox {
 		margin:1em;
 	}
+	.partenaires img {
+		height:50px;
+	}
 }
