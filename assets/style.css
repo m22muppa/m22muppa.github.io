@@ -19,7 +19,7 @@ header {
     text-align:center;
 }
 header img {
-    max-width:100px;
+    max-width:250px;
     margin:auto;
     display:inline-block;
 }
@@ -117,6 +117,9 @@ img {
     display:inline-block;
 }
 @media (max-width: 1000px) {
+	header img {
+	    max-width:100px;
+	}
 	.axes, .pfbox {
 		display:block;
 	}
