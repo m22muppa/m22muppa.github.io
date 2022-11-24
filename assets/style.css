@@ -5,6 +5,8 @@ html {
     font-family: 'Arimo', sans-serif;
     background-color: #ffffff;
     color: #383E4B;
+    max-width:95%;
+    margin:auto;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif;
@@ -21,19 +23,18 @@ header img {
     margin:auto;
     display:block;
 }
-header nav, footer nav, .partenaires img {
+.rs, footer nav, .partenaires {
 	margin:auto;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-around;
 }
-
+footer {
+	margin-top:5em;
+}
 a {
     color:#0099d1;
     text-decoration:none;
-}
-a[href="#"] {
-	color:#000;
 }
 img {
 	max-width: 100%;
@@ -42,8 +43,7 @@ img {
 	vertical-align: middle;
 }
 .social {
-    font-size:3em;
-    margin:1em;
+    font-size:2em;
     color:#000;
 }
 .professionfoi {
@@ -51,15 +51,42 @@ img {
 	grid-template-columns: 30% 30% 30%;
 	grid-column-gap: 5%;
 	grid-row-gap: 50px;
+	margin-bottom:1em;
+}
+.axes {
+	display:grid;
+	grid-template-columns: 50% 50%;
+	grid-column-gap: 5%;
+	grid-row-gap: 50px;
 }
 .pfbox {
 	display:inline-block;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #f3f3f3;
 	padding: 5%;
 	text-align:center;
 	border-radius:0.5em;
+	color:#fff;
 }
+.pf { background:#000;}
+.axe1 { background:#07326d;}
+.axe2 { background:#BC0000;}
+.axe3 { background:#3F3BF4;}
+.axe4 { background:#000000;}
+.axe5 { background:#F4BF3B;}
+.axe6 { background:#750787;}
+.axe7 { background:#34993F;}
+.axe8 { background:#07616D;}
+
+.buttonvote {
+	color:#000;
+	border:3px solid #000;
+	padding: 10px 0;
+}
+.buttonvote:hover {
+	color:#fff;
+	background:#000;
+}
+
 .communiques {
 	border:2px solid #000;
 	border-radius:0.5em;
@@ -79,20 +106,13 @@ img {
 	margin:0.5em;
 }
 */
-.partenaires {
-  display: flex;
-}
-.partenaires section {
-  flex: 50%;
-  display:inline-block;
-}
-	
+
 .partenaires img {
-    height:100px;
+    height:50px;
     display:inline-block;
 }
-@media (max-width: 600px) {
-	.professionfoi, .pfbox, header nav, header nav a, .partenaires section, .partenaires, .partenaires img {
+@media (max-width: 900px) {
+	.axes, .pfbox {
 		display:block;
 	}
 	.pfbox {
