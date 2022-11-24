@@ -113,7 +113,7 @@ img {
 */
 
 .partenaires img {
-    height:50px;
+    height:80px;
     display:inline-block;
 }
 @media (max-width: 1000px) {
