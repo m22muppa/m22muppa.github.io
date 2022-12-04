@@ -52,10 +52,10 @@ img {
 }
 .professionfoi {
 	display:grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: 40% 40%;
 	grid-column-gap: 5%;
 	grid-row-gap: 50px;
-	margin-bottom:1em;
+	margin-bottom:.5em;
 }
 .axes {
 	display:grid;
